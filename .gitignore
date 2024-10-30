@@ -2,7 +2,7 @@
 
 # dependencies
 node_modules/
-firebase/
+
 
 # Expo
 .expo/
@@ -31,6 +31,7 @@ yarn-error.*
 
 # local env files
 .env*.local
+.env
 
 # typescript
 *.tsbuildinfo
